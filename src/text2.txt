@@ -1,1 +1,2 @@
 text2 file was modified by Anton.
+second modification of text2 file.
